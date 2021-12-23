@@ -1,17 +1,17 @@
-<h1 align="center">Hello, I am Waris Abass Reshi</h1>
+<h1 align="center">Hey, I am Waris Abass Reshi</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/warisreshi" target="blank"><img src="https://img.shields.io/twitter/follow/warisreshi?logo=twitter&style=for-the-badge" alt="warisreshi" /></a> </p>
 
-- 🔭 I’m currently working on **My Personal Portifolio.**
+- 🔭 I am currently developing / designing my: **My Personal Portifolio.**
 
-- 🌱 I’m currently learning **Web development,Networking and Cloud.**
+- 🌱 I am busy in learning: **Web development,Networking and Cloud.**
 
-- 💬 Ask me about **Html, Javascript Linux and Networking.**
+- 💬 Ask me about: **Html, Javascript Linux and Networking.**
 
-- 📫 How to reach me **warisreshi@outlook.com**
+- 📫 Feel free to contact me at: **warisreshi@outlook.com**
 
-- ⚡ Fun fact **I think that i am a extrovert.**
+- ⚡ Fun Fact is: **I think that i am a extrovert.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
