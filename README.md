@@ -18,7 +18,7 @@
 <a href="https://twitter.com/warisreshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="warisreshi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/warisreshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="warisreshi" height="30" width="40" /></a>
 <a href="https://instagram.com/warisreshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="warisreshi" height="30" width="40" /></a>
-<a href="https://dribbble.com/warisreshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="warisreshi" height="30" width="40" /></a>
+<a href="https://dribbble.com/waris_reshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="waris_reshi" height="30" width="40" /></a>
 <a href="https://medium.com/@warisreshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@warisreshi" height="30" width="40" /></a>
 </p>
 
