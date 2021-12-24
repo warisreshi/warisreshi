@@ -7,7 +7,7 @@
 
 - 🌱 I am busy in learning: **Web development, Networking and Cloud.**
 
-- 💬 Ask me about: **Html, Javascript Linux and Networking.**
+- 💬 Ask me about: **Html, Javascript, Linux and Networking.**
 
 - 📫 Feel free to contact me at: **warisreshi@outlook.com**
 
