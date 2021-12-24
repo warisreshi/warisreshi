@@ -1,7 +1,7 @@
 <h1>Hey, I am Waris Abass Reshi.</h1>
 <h3>A passionate web developer from India.</h3>
 
-<p align="left" style="margin-left: 10px;"> <a href="https://twitter.com/warisreshi" target="blank"><img src="https://img.shields.io/twitter/follow/warisreshi?logo=twitter&style=for-the-badge" alt="warisreshi" /></a> </p>
+<p align="left" style="margin-left: 500x;"> <a href="https://twitter.com/warisreshi" target="blank"><img src="https://img.shields.io/twitter/follow/warisreshi?logo=twitter&style=for-the-badge" alt="warisreshi" /></a> </p>
 
 - 🔭 I am currently developing / designing my: **My Personal Portifolio.**
 
