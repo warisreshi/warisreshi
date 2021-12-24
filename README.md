@@ -5,7 +5,7 @@
 
 - 🔭 I am currently developing / designing my: **My Personal Portifolio.**
 
-- 🌱 I am busy in learning: **Web development,Networking and Cloud.**
+- 🌱 I am busy in learning: **Web development, Networking and Cloud.**
 
 - 💬 Ask me about: **Html, Javascript Linux and Networking.**
 
