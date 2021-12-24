@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I am Waris Abass Reshi</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h1>Hey, I am Waris Abass Reshi.</h1>
+<h3>A passionate web developer from India.</h3>
 
 <p align="left"> <a href="https://twitter.com/warisreshi" target="blank"><img src="https://img.shields.io/twitter/follow/warisreshi?logo=twitter&style=for-the-badge" alt="warisreshi" /></a> </p>
 
