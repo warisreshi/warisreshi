@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Self-Taught%20Web%20Developer;10%2B%2years%20of%20web devlopment%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FF0000&size=30&center=true&multiline=true&lines=Hello+I+am+Waris+Abass)](https://git.io/typing-svg)
 - 🔭 I am currently working on: **Package Umbrella** https://github.com/warisreshi/packageumbrella/
 
 - 🌱 I am busy in learning: **Web development, Networking and Cloud.**
