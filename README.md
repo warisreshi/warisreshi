@@ -1,6 +1,4 @@
-
-<p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FF0000&size=30&center=true&multiline=true&lines=Hello+I+am+Waris+Abass)](https://git.io/typing-svg)
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FF0000&size=30&center=true&multiline=true&lines=Hello+I+am+Waris+Abass)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://twitter.com/warisreshi"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
