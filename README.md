@@ -1,6 +1,8 @@
 <h1>Hey, I am Waris Abass Reshi.</h1>
 <h3>A passionate web developer from India.</h3>
 <br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Waris!)](https://git.io/typing-svg)
 <p align="left"> <a href="https://twitter.com/warisreshi" target="blank"><img src="https://img.shields.io/twitter/follow/warisreshi?logo=twitter&style=for-the-badge" alt="warisreshi" /></a> </p>
 
 - 🔭 I am currently working on: **Package Umbrella** https://github.com/warisreshi/packageumbrella/
