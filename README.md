@@ -33,4 +33,4 @@
 ## Support
 
 <br>
-<p><a href="https://www.buymeacoffee.com/warisreshi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="250" alt="warisreshi" /></a></p><br><br>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="warisreshi" data-color="#FFDD00" data-emoji="" data-font="Poppins" data-text="Support Me" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
