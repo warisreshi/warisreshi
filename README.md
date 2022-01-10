@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code+Medium&color=%234FC5F7&size=27&lines=Web+Developer.;Programmer.;Student.)](https://git.io/typing-svg)
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/warisreshi"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
       <a href="https://instagram.com/warisreshi"><img width="31px" alt="Buy Me a Coffee" title="Buy me a coffee" src="./Icons/instagram.png"></a>
