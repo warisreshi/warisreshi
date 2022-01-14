@@ -1,6 +1,8 @@
 <h1 align="left" style="color:#f83132; font-weight: bold; font-family:Fira Code Medium" > Hello, I am Waris Abass Reshi </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code+Medium&color=%234FC5F7&size=27&lines=Web+Developer.;Programmer.;Student.)](https://git.io/typing-svg)
+## Web Developer
+## Programmer
+## Student
 
 <p align="left">
   <a href="https://twitter.com/warisreshi"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
