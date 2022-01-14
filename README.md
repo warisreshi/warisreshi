@@ -1,8 +1,8 @@
 <h1 align="left" style="color:#f83132; font-weight: bold; font-family:Fira Code Medium" > Hello, I am Waris Abass Reshi </h1>
 
-## Web Developer
-## Programmer
-## Student
+<p style="text-size:30px;">
+  hello
+</p>
 
 <p align="left">
   <a href="https://twitter.com/warisreshi"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
