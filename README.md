@@ -1,6 +1,6 @@
 <h1 align="left" style="color:#f83132; font-weight: bold; font-family:Fira Code Medium" > Hello, I am Waris Abass Reshi </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&lines=Programmer;Web+Developer;Open+Sourcer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=30&lines=Programmer;Web+Developer;Open+Sourcer)](https://git.io/typing-svg)
 
 #### 🔭 I am currently working on: **Package Umbrella** https://github.com/warisreshi/packageumbrella/
 
