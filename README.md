@@ -5,7 +5,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=warisreshi.warisreshi)
 
 </p>
-<div size='20px'> Hi! My name is Waris Abass Reshi. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='50px'> Hi! My name is Waris Abass Reshi. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <br>
