@@ -4,7 +4,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=warisreshi.warisreshi)
 
-#### Hi! My name is Waris Abass Reshi. 😄
+#### Hi! My name is Waris Abass Reshi. I am from Jammu and Kashmir, India. I am programmer and a web developer. Thanks for visiting my profile.
 
 <br>
   
