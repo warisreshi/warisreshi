@@ -4,7 +4,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=warisreshi.warisreshi)
 
-## Hi! My name is Waris Abass Reshi. Thank You for taking the time to view my GitHub Profile :smile: 
+## Hi! My name is Waris Abass Reshi. 😄
 
 <br>
   
